@@ -558,7 +558,6 @@ hotfile.com
 idrive.com
 livedrive.com
 mediafire.com
-mega.nz
 megashares.com
 megaupload.com
 megavideo.com
