@@ -67,6 +67,7 @@ ads.stickyadstv.com
 ads.themoneytizer.com
 ads.trafficpoizon.com
 ads.yahoo.com
+ads.yap.yahoo.com
 ads2.williamhill.com
 adsafeprotected.com
 adserver.adreactor.com
@@ -228,6 +229,7 @@ freegameszonetab.com
 fusionads.net
 fw.adsafeprotected.com
 fwmrm.net
+global.adserver.yahoo.com
 grand-ads.com
 greatappinstalls132.com
 hanjongule0.xyz
