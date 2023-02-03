@@ -866,6 +866,7 @@ juegosjuegos.ws
 juegosonlinegratis.com.mx
 kulbotjuegos.com
 lagged.es
+leagueoflegends.com
 livechat.igg.com
 lm-login-192-243-44-63.igg.com
 lm-proxy-192-243-41-188.igg.com
@@ -3870,6 +3871,7 @@ inkapelis.io
 inmanga.com
 ios.prod.cloud.netflix.com
 iptvscv.totalplay.com.mx
+iq.com
 johnny-english-recargado.azpelis.com
 johnny-english.pelisplusgo.me
 justwatch.com
@@ -4026,6 +4028,7 @@ videosmuygraciosos.com
 vidoza.net
 viendolo.com
 viewlorium.com
+viki.com
 vix.com
 vkcache.com
 vod.cdn.iutpcdn.com
