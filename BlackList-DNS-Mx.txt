@@ -3741,6 +3741,7 @@ webtrackerplus.com
 zone.gotrackier.com
 vuelos.com
 tiny.one
+a2.cuevana3.media
 ab3cs84k69ya.api.amazonvideo.com
 access.mp.lura.live
 adap.tv
@@ -3799,13 +3800,19 @@ cloudinary.com
 cn.i.cdn.ti-platform.com
 comet-latam.api.hbo.com
 comet.api.hbo.com
+cuevan.live
+cuevana-1.net
 cuevana.nz
 cuevana2.io
 cuevana2.li
 cuevana2espanol.com
+cuevana3.com.mx
 cuevana3.io
 cuevana3.plus
 cuevana3.video
+cuevana3pro.com
+cuevana3pro.com
+cuevana3pro.com
 cuevanago.com
 cuevanavideo.com
 daftertv.com
@@ -3853,6 +3860,9 @@ hotstar.com
 hqq.tv
 hqq.tv.w3snoop.com
 hulu.com
+icuevana3.com
+icuevana3.com
+icuevana3.com
 identity-api.vix.com
 if.pelisplus.icu
 images.vix.com
@@ -3966,6 +3976,7 @@ stream2u.eu
 streamcloud.eu
 streamplay.to
 streamtape.com
+stumblingtongue.com
 sv03.pelisfile.net
 sv07.pelisfile.net
 telegraph.api.hbo.com
