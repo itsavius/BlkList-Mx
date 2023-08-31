@@ -285,7 +285,6 @@ itpatratr.com
 jadserve.postrelease.com
 js.adsrvr.org
 juicyads.in
-klclick1.com
 kochava.com
 ladsanz.com
 lakufomu.xlx.pl
@@ -428,7 +427,6 @@ trafyield.com
 trc.taboola.com
 tremorhub.com
 tribalfusion.com
-trk.klclick1.com
 tt-12765-5.seg.t.tailtarget.com
 tubecorporate.com
 turtlebids.irauctions.com
@@ -733,6 +731,7 @@ produccionesalbercris.mex.tl
 recursosvisualbasic.com.ar
 solucionavirus.com
 todoexpertos.com
+r20.rs6.net
 202.fm
 buenanime.com
 entretenimiento.prodigy.msn.com
@@ -837,8 +836,11 @@ uploaded.net
 3djuegos.com
 3hm.minijuegos.com
 accounts.ea.com
+aja.disney.com
 ajedrez-online.eu
 ajedrezonline.com
+amazongames.com
+amazongames.com
 ancestorsgame.com
 apis-dsa.igg.com
 arcade.lemonde.fr
@@ -863,6 +865,7 @@ ea.com
 eac-cdn.com
 easy.ac
 easyanticheat.net
+egames.news
 epicgames.com
 escapefromtarkov.com
 f13game.com
@@ -906,6 +909,7 @@ juegosgratisxd.com
 juegosgratisya.online
 juegosinfantilespum.com
 juegosjuegos.com
+juegosjuegos.com
 juegosjuegos.ws
 juegosonlinegratis.com.mx
 kulbotjuegos.com
@@ -945,6 +949,7 @@ s1.minijuegosgratis.com
 s3.minijuegosgratis.com
 signin.ea.com
 solitaire365.com
+spa.cartoonnetworkla.com
 static-lo.igg.com
 steam.com
 steamcdn-a.akamaihd.net
@@ -961,11 +966,14 @@ telltale.com
 ubisoft.com
 us.event.freefiremobile.com
 version.common.freefiremobile.com
+world-geography-games.com
+www-egames-news.cdn.ampproject.org
 www1.minijuegosgratis.com
 www2.minijuegosgratis.com
 www3.minijuegosgratis.com
 www4.minijuegosgratis.com
 www5.minijuegosgratis.com
+xbox.com
 xbox.com
 zjuegosgratis.com
 pronosticos.gob.mx
@@ -1076,6 +1084,7 @@ cdn4ads.com
 click-cdn.com
 codere.mx
 collenwhr.website
+conceitslidpredicate.com
 confidentexplanationillegal.com
 control.trafficfabrik.com
 cookinginajiffy.com
@@ -1103,6 +1112,7 @@ flowstory.org
 forbesandcompany.com
 fpcTraffic2.com
 FriendlyDuck.com
+furnacemanagerstates.com
 g7qg.danc.gdn
 gerends.com
 ginzogwine.casa
@@ -1143,6 +1153,7 @@ oboom.com
 oun.cuevana.pro
 outaboxparenting.com
 outsliggooa.com
+paysqueak.com
 perryprocess.com
 pityhostngco2.xyz
 pl.premium4kflix.website
@@ -1192,8 +1203,10 @@ upgulpinon.com
 urmediazone.com
 vinfdv6b4j.com
 vod-burner.com
+waaw.to
 waisheph.com
 wantstraffic.com
+waspishamendbulb.com
 watermelonwishes.com
 wct.link
 web.adblade.com
@@ -1246,7 +1259,6 @@ eds.xboxlive.com
 help.ui.xboxlive.com
 licensing.xboxlive.com
 notify.xboxlive.com
-r20.rs6.net
 teredo.ipv6.microsoft.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
@@ -1270,7 +1282,9 @@ mx.hola.com
 podiumpodcast.com
 quien.com
 zurita-bach.com
+9.rarbg.com
 my-movie.club
+rarbg.com
 21porno.com
 3movs.com
 777pornotube.com
@@ -3607,7 +3621,6 @@ api.like.video
 api.likee.video
 app-analytics-v2.snapchat.com
 bebo.com
-captcha.gtimg.com
 discord.com
 discord.gg
 discord.gift
@@ -3653,7 +3666,6 @@ socks.like.video
 static-act.like-video.com
 static-web.likeevideo.com
 tagged.com
-tam.cdn-go.cn
 tinder.com
 tindersparks.com
 tweetmeme.com
@@ -3778,8 +3790,12 @@ webtrackerplus.com
 zone.gotrackier.com
 vuelos.com
 tiny.one
+123movies.la
 a2.cuevana3.media
 ab3cs84k69ya.api.amazonvideo.com
+ab4sp6snqrny.na.api.amazonvideo.com
+abty9w6f2rf8.na.api.amazonvideo.com
+abzq7aq4866p.na.api.amazonvideo.com
 access.mp.lura.live
 adap.tv
 adrise.tv
@@ -3796,6 +3812,7 @@ animeultima.tv
 api-edge.pongalo.com
 api.blim.com
 api.da.kcpglob.com
+api.movcloud.net
 api.repelisplus.app
 appconfigs.disney-plus.net
 appconfigs.prd.wmgp.io
@@ -3824,6 +3841,7 @@ blip.tv
 boblil.com
 break.com
 broadwayhd.com
+c-d001.cfna.prod.t300.ter.int.amazonvideo.com
 cadenatres.com.mx
 cartelespeliculas.com
 catalog.pongalo.com
@@ -3871,6 +3889,7 @@ cuevanavideo.com
 cultpix.com
 curiosity-club.s3.amazonaws.com
 curiositystream.com
+d001.na.prod.t300.ter.int.amazonvideo.com
 daftertv.com
 dailymotion.com
 dalealplay.com
@@ -3904,6 +3923,7 @@ esmas.com
 eventive.imgix.net
 eventive.org
 eztv.ag
+f4200d648f.na.api.amazonvideo.com
 fembed.com
 fembed.net
 filmbox.com
@@ -3926,6 +3946,7 @@ hbo.map.fastly.net
 hbolatam.com
 hbomax.com
 hdcine.org
+hdmoviesb.com
 hdslb.com
 hoichoi.tv
 hotstar.com
@@ -3954,6 +3975,7 @@ iq.com
 johnny-english-recargado.azpelis.com
 johnny-english.pelisplusgo.me
 justwatch.com
+kissmovies.io
 kocowa-img.imgix.net
 kocowa.com
 lectortmo.com
@@ -3970,12 +3992,14 @@ mediotiempo.com
 Mega.nz
 megadedee.com
 megapeliculaslatinohd.com
+membed.net
 metacafe.com
 metatube.com
 mhy.cuevana.pro
 miraestevideo.com
 mitvenvivo.tv
 mixdrop.to
+movcloud.net
 movistarplay.com.mx
 mubi.com
 mx.cine.yahoo.com
@@ -4057,6 +4081,7 @@ prod-sgw.kocowa.com
 prod.pongalo.com
 production-static.ondemandkorea.com
 push.prod.netflix.com
+q419yw5kcz2ra0.na.api.amazonvideo.com
 qubit.tv
 quieroverlatele.com
 radioytvmexiquense.mx
@@ -4069,6 +4094,8 @@ revry.tv
 s.pelisflix2.gratis
 saa.paramountplus.com
 sentry.justwatch.com
+series9.ac
+series9.to
 server.repelisplus.app
 sessions-latam.api.hbo.com
 sicario.tv
@@ -4132,6 +4159,10 @@ verpelisonline.tv
 verpelistoday.com
 vhx.imgix.net
 vhx.tv
+vidcloud9.su
+vidembed.cc
+vidembed.io
+vidembed.net
 video.mx.msn.com
 videoschistososdivertidos.com
 videosgraciososydivertidos.com
@@ -4139,6 +4170,7 @@ videoshumor.biz
 videosjaja.com
 videosmasgraciosos.com
 videosmuygraciosos.com
+vidnext.net
 vidoza.net
 viendolo.com
 viewlorium.com
