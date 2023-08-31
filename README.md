@@ -1,2 +1,2 @@
-# BlackList-DNS-Mx
+# BlackList-Bis-Mx
 Black List DNS Mx sites
