@@ -3873,6 +3873,9 @@ webtrackerplus.com
 zone.gotrackier.com
 vuelos.com
 tiny.one
+clicks.foxsports.com
+www.foxsports.com.mx
+www-foxsports-com-mx.cdn.ampproject.org
 0123movies.com
 111vdo.com
 123-movies.bz
